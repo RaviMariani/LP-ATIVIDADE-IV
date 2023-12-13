@@ -1,13 +1,5 @@
-/******************************************************************************
-
-Crie uma struct Contato para representar informações de contatos, incluindo nome, 
-número de telefone e email. Solicite que o usuário cadastre 3 contatos. 
-Escreva uma função que recebe um nome como parâmetro, e retorna o número de telefone 
-correspondente a esse nome. Em seguida, implemente um programa que utiliza essa função 
-para buscar e imprimir o número de telefone de um contato específico.
-
-*******************************************************************************/
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 
 #define MAX_CONTATOS 3
